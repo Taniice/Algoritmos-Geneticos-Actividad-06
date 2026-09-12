@@ -161,5 +161,5 @@ Los resultados muestran que los algoritmos genéticos pueden utilizarse como una
   
 ## Ejecución
 
-Abrir el archivo `ACTIVIDAD06.ipynb` en **Google Colab** y ejecutar las celdas.
+Abrir el archivo `Actividad_06.ipynb` en **Google Colab** y ejecutar las celdas.
 
